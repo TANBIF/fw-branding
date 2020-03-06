@@ -396,12 +396,12 @@ module.exports = {
   isDevel: true,
   inMante: false, // set to true and deploy if you want to set a maintenance message in all the services
   enabledLangs: ['en', 'sw'],
-  mainDomain: 'tanbif.ditnet.ac.tz', // used for cookies (without http/https)
-  mainLAUrl: 'https://tanbif.ditnet.ac.tz',
+  mainDomain: 'freshwater.ternet.or.tz', // used for cookies (without http/https)
+  mainLAUrl: 'https://freshwater.ternet.or.tz',
   baseFooterUrl: 'https://tanbif.ditnet.ac.tz/tz-ui-2020-freshwater',
   services: {
     collectory: { url: 'https://collections.tanbif.ditnet.ac.tz', title: 'Collections' },
-    biocache: { url: 'https://records.tanbif.ditnet.ac.tz', title: 'Occurrence records' },
+    biocache: { url: 'https://freshwater.ternet.or.tz', title: 'Occurrence records' },
     bie: { url: 'https://species.tanbif.ditnet.ac.tz', title: 'Species' },
     regions: { url: 'https://regions.tanbif.ditnet.ac.tz', title: 'Regions' },
     lists: { url: 'https://lists.tanbif.ditnet.ac.tz', title: 'Species List' },
